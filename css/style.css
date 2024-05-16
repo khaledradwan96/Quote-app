@@ -1,5 +1,10 @@
+h1 {
+  font-family: "Poetsen One", sans-serif;
+  font-weight: 900;
+  font-size: 4rem;
+}
 p {
-  font-family: Impact;
+  font-family: "Poetsen One", sans-serif;
   font-size: 40px;
   padding: 0 1rem;
 }
@@ -11,7 +16,6 @@ span {
   border-radius: 6px;
 }
 
-/* ===================== */
 footer {
   background-color: #212121;
   position: fixed;
