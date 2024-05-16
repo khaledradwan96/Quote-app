@@ -1,0 +1,37 @@
+p {
+  font-family: Impact;
+  font-size: 40px;
+  padding: 0 1rem;
+}
+
+span {
+  font-size: 25px;
+  color: white;
+  font-weight: bold;
+  background-color: #dc3545;
+  border-radius: 6px;
+}
+
+footer {
+  background-color: #212121;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  color: #000;
+  background-color: #fff;
+  transition: 0.3s;
+}
+
+footer a:hover {
+  color: #fff;
+  background-color: #000;
+}
